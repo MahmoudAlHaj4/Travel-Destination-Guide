@@ -55,11 +55,16 @@ body{
     
 }
 
+
 h2{
     margin-left: 15px;
     color: #ffffff;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 
     'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;;
+}
+span{
+    font-size: 20px;
+    
 }
 .x{
     display: flex;
